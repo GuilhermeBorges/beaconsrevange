@@ -1,0 +1,17 @@
+
+1) Para o que serve isso?
+	local sceneGroup = self.view
+
+2) O que é o self.view
+
+3) O que colocar nas funções principais da cena e qual a sua função:
+	- a) Create
+		- This is called when the scence view does not exist
+	- b) Show
+	- c) Hide
+	- d) Destroy
+
+4) What is Anchor of a image?
+	background.anchorX = 0
+	background.anchorY = 0
+	
